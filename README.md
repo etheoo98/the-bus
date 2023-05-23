@@ -1,4 +1,4 @@
-# the-bus-v2
+# the-bus
 C# console application made for a beginners programming course.
 
 ## Assignment description
